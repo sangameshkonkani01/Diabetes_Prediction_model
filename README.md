@@ -6,7 +6,15 @@ A simple machine learning project that estimates the risk of diabetes from user-
 
 ---
 
-## 🌟 What this project includes
+## � Live Demo
+
+Use the deployed web app here:
+
+https://diabetes-risk-checker-py1d.onrender.com/
+
+---
+
+## �🌟 What this project includes
 
 - A **trained RandomForest model** that predicts the probability of diabetes.
 - A **Streamlit web app** to enter health parameters and display a risk estimation.
